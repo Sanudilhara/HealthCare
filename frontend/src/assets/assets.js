@@ -455,5 +455,5 @@ export const doctors = [
             line1: '14th Street, Happy Lane',
             line2: 'Kidstown, Seattle'
         }
-    }
+    },
 ]
